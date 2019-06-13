@@ -1,8 +1,28 @@
 body {
     box-sizing: content-box;
-    background-image: url("../images/trainbg.jpg");
+    background-image: url("../images/trainbg3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
     
+}
+.jumbotron {
+    background-color: red;
+    padding: 50px;
+}
+h1 {
+    font-size: 3.5rem;
+}
+p {
+    font-size: 24px;
+    font-weight: bold;
+}
+#current-time {
+  font-size: 20px;
+}
+.table-striped {
+  background-color: rgb(230, 119, 119);
+}
+.aside-card {
+    background-color: rgba(255, 0, 0, 0.575);
 }
