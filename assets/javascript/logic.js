@@ -77,17 +77,15 @@ database.ref().on("child_added", function(childSnapshot) {
   newrow.append($("<td class='text-center'>" + childSnapshot.val().frequency + "</td>"));
   newrow.append($("<td class='text-center'>" + moment(nextTrain).format("LT") + "</td>"));
   newrow.append($("<td class='text-center'>" + minToArrival + "</td>"));
-  newrow.append($("<td class='text-center'><button class='arrival btn btn-danger btn-xs' data-key='" + key + "'>X</button></td>"));
+  newrow.append($("<td class='text-center'><button class='remove btn btn-danger btn-xs' data-key='" + key + "'>X</button></td>"));
 
-  if (minToArrival < 6) {
-    newrow.addClass("info");
-  }
+
   //APPENDING NEW TRAIN INFO
   $("#train-table-rows").append(newrow);
 
 });
-
-$(document).on("click", ".arrival", function() {
+//DELETES INFO ON REMOVE BUTTON CLICK
+$(document).on("click", ".remove", function() {
   keyref = $(this).attr("data-key");
   database.ref().child(keyref).remove();
   window.location.reload();
