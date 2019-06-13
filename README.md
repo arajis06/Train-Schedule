@@ -1,11 +1,11 @@
 # Train-Schedule
 Creator: Alexis Rajis
-Type of Project: Firebase
+Type of Project: Firebase/Moment
 
 Theme: TV Show GIFs
 
  LINK:
- https://arajis06.github.io/Gif_Tastic/
+  https://arajis06.github.io/Train-Schedule/
 
 Description of Application
 Overview
