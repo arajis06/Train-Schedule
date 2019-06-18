@@ -7,7 +7,7 @@ Theme: TV Show GIFs
  LINK:
   https://arajis06.github.io/Train-Schedule/
   
-  (screenshots/project1screenshot.png "Application Screenshot")
+  ![](assets/css/images/project1screenshot.png)
 
 Description of Application
 Overview
