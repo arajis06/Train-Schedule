@@ -1,5 +1,5 @@
 # Train-Schedule
-##Creator: Alexis Rajis
+### Creator: Alexis Rajis
 Type of Project: Firebase/Moment
 
 Theme: TV Show GIFs
@@ -9,7 +9,7 @@ Theme: TV Show GIFs
   
   
 
-Description of Application
+## Description of Application
 Overview
 
 In this train schedule application, it incorporates Firebase to host arrival and departure data. Also this app retrieve and manipulate information with Moment.js. This website provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
@@ -21,13 +21,13 @@ Page will alert the user if any input field is incomplete.
 User can delete train information previously inputed to the table by clicking the remove button 
 User input information will be stored to the Firebase database with every click on the add train button
 
-Technologies Used:
--HTML5
--CSS
--Bootstrap
--Javascript
--JQuery
--Moment
--Firebase
--GitHub
+# Technologies Used:
+- HTML5
+- CSS
+- Bootstrap
+- Javascript
+- JQuery
+- Moment
+- Firebase
+- GitHub
 
