@@ -1,16 +1,16 @@
 # Train-Schedule
 ### Creator: Alexis Rajis
-Type of Project: Firebase/Moment
+#### Type of Project: Firebase/Moment
 
-Theme: TV Show GIFs
+#### Theme: TV Show GIFs
 
- LINK:
+ ## LINK:
   https://arajis06.github.io/Train-Schedule/
   
   
 
 ## Description of Application
-Overview
+### Overview
 
 In this train schedule application, it incorporates Firebase to host arrival and departure data. Also this app retrieve and manipulate information with Moment.js. This website provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
 
