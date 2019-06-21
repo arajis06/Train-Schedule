@@ -2,8 +2,6 @@
 ### Creator: Alexis Rajis
 #### Type of Project: Firebase/Moment
 
-#### Theme: TV Show GIFs
-
  ## LINK:
   https://arajis06.github.io/Train-Schedule/
   
