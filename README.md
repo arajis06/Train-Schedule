@@ -1,5 +1,5 @@
 # Train-Schedule
-Creator: Alexis Rajis
+##Creator: Alexis Rajis
 Type of Project: Firebase/Moment
 
 Theme: TV Show GIFs
@@ -22,12 +22,12 @@ User can delete train information previously inputed to the table by clicking th
 User input information will be stored to the Firebase database with every click on the add train button
 
 Technologies Used:
-HTML5
-CSS
-Bootstrap
-Javascript
-JQuery
-Moment
-Firebase
-GitHub
+-HTML5
+-CSS
+-Bootstrap
+-Javascript
+-JQuery
+-Moment
+-Firebase
+-GitHub
 
