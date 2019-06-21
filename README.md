@@ -2,7 +2,7 @@
 ### Creator: Alexis Rajis
 #### Type of Project: Firebase/Moment
 
- ## LINK:
+ #### LINK:
   https://arajis06.github.io/Train-Schedule/
   
 ![screenshot](https://user-images.githubusercontent.com/49252572/59931137-50f3fc00-9412-11e9-9429-bfa53c47e566.png)
